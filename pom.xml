@@ -6,7 +6,7 @@
 
     <groupId>com.kangyonggan</groupId>
     <artifactId>freemarker</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>Freemarker</name>
     <description>Freemarker's Directive</description>
@@ -32,7 +32,7 @@
     </scm>
 
     <properties>
-        <freemarker.version>2.3.22</freemarker.version>
+        <freemarker.version>2.3.23</freemarker.version>
     </properties>
 
     <dependencies>
